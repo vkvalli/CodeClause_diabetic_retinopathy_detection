@@ -1,5 +1,5 @@
-# Codeclause_diabetic_retinopathy_detection
-This repository contains a machine learning model for detecting diabetic retinopathy using image analysis techniques. The model utilizes the numpy and pandas libraries for data preprocessing and K-means clustering with PP centers for image segmentation. It also incorporates Support Vector Machine (SVM) with Radial Basis Function (RBF) and K-Nearest Neighbors (KNN) algorithms for classification.
+# Diabetic Retinopathy Detection Model
+This repository contains a machine-learning model for detecting diabetic retinopathy using image analysis techniques. The model utilizes the numpy and pandas libraries for data preprocessing and K-means clustering with PP centers for image segmentation. It also incorporates Support Vector Machine (SVM) with Radial Basis Function (RBF) and K-Nearest Neighbors (KNN) algorithms for classification.
 ## Dataset
 The dataset used in this project was downloaded from Kaggle and consists of images related to diabetic retinopathy. The dataset is divided into two classes: "effected" and "non-effected." The "effected" images are marked with corresponding labels indicating the presence of diabetic retinopathy, while the "non-effected" images do not exhibit any signs of the condition.
 
